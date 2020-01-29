@@ -1,2 +1,2 @@
 # Hello-world
-Creating a repository
+Hi my name is Nceba Madolo Im from Khayelitsha and I love Computer Science
